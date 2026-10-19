@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-10-19T12:00:00Z",
+  "summary": {
+    "profiles": 3,
+    "plugins": 2,
+    "events": 42
+  },
+  "events": [
+    {
+      "at": "2026-10-19T11:59:00Z",
+      "type": "login",
+      "actor": "victor"
+    },
+    {
+      "at": "2026-10-19T11:58:00Z",
+      "type": "profile.added",
+      "actor": "cli"
+    }
+  ]
+}
